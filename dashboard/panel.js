@@ -1,9 +1,10 @@
 'use strict';
 
 $('#sendPlayer').click(function() {
-	var player = $('#player').val();
-	var stats = $('#stats').val();
-	nodecg.sendMessage('showPlayer', { text: player, text: stats});
+	var data = {}
+	data.player = $('#player').val();
+	data.stats = $('#stats').val();
+	nodecg.sendMessage('showPlayer', data);
 });
 
 $('#hidePlayer').click(function() {

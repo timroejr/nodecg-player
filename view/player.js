@@ -18,7 +18,7 @@ $(function () {
         volume: '0.15'      // not so loud please
     });
 
-    function showPlayer(player, stats) {
+    function showPlayer(data) {
         
 		
 		// play sound
@@ -29,8 +29,11 @@ $(function () {
 
         var tm = new TimelineMax({paused: true});
 		
-		$('#linktitle').html(player.text);
+		//$('#linktitle').html(player.text);
 		//$('#linktext').html(stats.text);
+		
+		$('#linktitle').text(data.player);
+		$('#stats').text(data.stats);
 
         //add our tweens to the timeline
         tm.to($('#links'), 0.5, {width: '31.25%'}, '0');
