@@ -5,6 +5,9 @@ This is a Player Stats System for NodeCG that was developed for Live Streaming w
 Install to nodecg/bundles/ folder on your computer.
 If you haven't already downloaded NodeCG you can do so [here](https://github.com/nodecg/nodecg)
 
+#Demo
+[Click Here](http://gfycat.com/SpiritedEnlightenedCougar)
+
 #Credits
 - Timothy "TJ" Roe, Jr. Developer of NodeCG-Player Bundle
 - [Alex "Lange" Van Camp](http://alexvan.camp/), [Matt "Bluee" McNamara](https://github.com/MattMcNam), and ["tsc"](http://fwdcp.net/)
