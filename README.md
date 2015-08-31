@@ -7,7 +7,7 @@ If you haven't already downloaded NodeCG you can do so [here](https://github.com
 
 #Credits
 - Timothy "TJ" Roe, Jr. Developer of NodeCG-Player Bundle
-- [Alex "Lange" Van Camp](http://alexvan.camp/), [Matt "Bluee" McNamara]("https://github.com/MattMcNam"), and ["tsc"](http://fwdcp.net/)
+- [Alex "Lange" Van Camp](http://alexvan.camp/), [Matt "Bluee" McNamara](https://github.com/MattMcNam), and ["tsc"](http://fwdcp.net/)
 - [Western Christian Schools](http://westernchristian.org/) for the permission to use the "WC" Logo.
 	
 #License
