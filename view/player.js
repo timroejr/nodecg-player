@@ -36,7 +36,7 @@ $(function () {
 		$('#stats').text(data.stats);
 
         //add our tweens to the timeline
-        tm.to($('#links'), 0.5, {width: '31.25%'}, '0');
+        tm.to($('#links'), 0.5, {width: '50.00%'}, '0');
         tm.to($('#stats'), 0.5, {top: '0px', ease: Quad.easeOut}, '0.475');
         tm.to($('#hatty'), 0.5, {webkitTransform: 'translate3d(0, 0px, 0px) rotateX(0deg)', ease: Quad.easeOut}, '0.5');
         tm.to($('#hatty'), 0.2, {opacity: '1', ease: Quad.easeOut}, '0.5');
@@ -80,6 +80,6 @@ $(function () {
         $('#hatty').css('-webkit-transform', 'translate3d( 0, 100px, -100px ) rotateX( -90deg )');
         $('#hatty').css('animation-duration', '5s');
         $('#hatty').css('animation-iteration-count', 'infinite');
-        $('#hattycontainer').css('right', '405px');
+        $('#hattycontainer').css('right', '880px');
     }
 });

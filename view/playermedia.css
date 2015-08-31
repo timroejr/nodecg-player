@@ -31,7 +31,7 @@ body {
     overflow: hidden;
     color: #f4f4f5;
     background: #0C5AC5;
-    padding: 2px 30px;
+    padding: 2px 80px;
     vertical-align: middle;
     height: 40px;
     text-shadow: 0 0 2px rgba(150, 150, 150, .5);
@@ -58,10 +58,9 @@ body {
 	overflow: hidden;
     background-color: #f4f4f5;
     color: black;
-    height: 60px;
+    height: 30px;
     top: -100px; /* no idea why percentage doesn't work here */
-    padding: 16px 30px;
-    line-height: 40px;
+    padding: 8px 15px;
     white-space: nowrap;
 }
 
@@ -72,8 +71,8 @@ body {
     -webkit-perspective-origin: 50% 50%;
     z-index: 2;
     position: absolute;
-    top: 188px;
-    right: 405px;
+    top: 255px;
+	right: 880px;
 }
 
 #hatty {
