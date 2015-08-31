@@ -6,9 +6,9 @@ Install to nodecg/bundles/ folder on your computer.
 If you haven't already downloaded NodeCG you can do so [here](https://github.com/nodecg/nodecg)
 
 #Credits
-	- Timothy "TJ" Roe, Jr. Developer of NodeCG-Player Bundle
-	- [Alex "Lange" Van Camp](http://alexvan.camp/), [Matt "Bluee" McNamara]("https://github.com/MattMcNam"), and ["tsc"](http://fwdcp.net/)
-	- [Western Christian Schools](http://westernchristian.org/) for the permission to use the "WC" Logo.
+- Timothy "TJ" Roe, Jr. Developer of NodeCG-Player Bundle
+- [Alex "Lange" Van Camp](http://alexvan.camp/), [Matt "Bluee" McNamara]("https://github.com/MattMcNam"), and ["tsc"](http://fwdcp.net/)
+- [Western Christian Schools](http://westernchristian.org/) for the permission to use the "WC" Logo.
 	
 #License
 Copyright (c) 2015 Timothy 'TJ' Roe, Jr.
