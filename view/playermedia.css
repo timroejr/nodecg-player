@@ -51,6 +51,20 @@ body {
     white-space: nowrap;
 }
 
+#stats {
+	font-size:24px;
+	position:relative;
+	z-index:-1;
+	overflow: hidden;
+    background-color: #f4f4f5;
+    color: black;
+    height: 60px;
+    top: -100px; /* no idea why percentage doesn't work here */
+    padding: 16px 30px;
+    line-height: 40px;
+    white-space: nowrap;
+}
+
 #hattycontainer {
     perspective: 300px;
     -webkit-perspective: 300px;

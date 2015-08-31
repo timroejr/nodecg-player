@@ -34,7 +34,7 @@ $(function () {
 
         //add our tweens to the timeline
         tm.to($('#links'), 0.5, {width: '31.25%'}, '0');
-        tm.to($('#linktext'), 0.5, {top: '0px', ease: Quad.easeOut}, '0.475');
+        tm.to($('#stats'), 0.5, {top: '0px', ease: Quad.easeOut}, '0.475');
         tm.to($('#hatty'), 0.5, {webkitTransform: 'translate3d(0, 0px, 0px) rotateX(0deg)', ease: Quad.easeOut}, '0.5');
         tm.to($('#hatty'), 0.2, {opacity: '1', ease: Quad.easeOut}, '0.5');
         tm.addCallback(startHatLoop, 1);
@@ -53,7 +53,7 @@ $(function () {
 
         var tm = new TimelineMax({paused: true});
 
-        tm.to($('#linktext'), 0.5, {top: '-238px', ease: Quad.easeOut}, '0');
+        tm.to($('#stats'), 0.5, {top: '-100px', ease: Quad.easeOut}, '0');
         tm.to($('#links'), 0.5, {width: '0%'}, '0.450');
         tm.to($('#hattycontainer'), 0.370, {right: '555px'}, '0.450');
 
